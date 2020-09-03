@@ -1,0 +1,4 @@
+[preferences]
+theme='Adapta-Nokto'
+num-workspaces=9
+workspace-names=['Email', 'JIRA', 'Git', 'Jupyter', '', 'Remmina', 'VSCode', 'Chromium']

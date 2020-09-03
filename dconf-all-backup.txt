@@ -1,0 +1,384 @@
+[io/github/celluloid-player/celluloid/window-state]
+playlist-width=250
+show-controls=true
+show-playlist=false
+width=677
+volume=1.0
+height=810
+
+[io/github/celluloid-player/celluloid]
+settings-migrated=true
+
+[org/x/reader/toolbar]
+show-expand-window=true
+
+[org/x/reader/default]
+window-ratio=(3.1356209150326797, 2.691919191919192)
+
+[org/x/viewer/view]
+background-color='rgb(0,0,0)'
+use-background-color=true
+
+[org/x/editor/preferences/ui]
+statusbar-visible=true
+
+[org/x/editor/plugins/filebrowser/on-load]
+virtual-root='file:///home/sam029/Downloads'
+tree-view=true
+root='file:///'
+
+[org/x/editor/plugins]
+active-plugins=['textsize', 'sort', 'open-uri-context-menu', 'modelines', 'filebrowser', 'time', 'docinfo', 'spell']
+
+[org/x/editor/state/history-entry]
+history-replace-with=['<path class="path"']
+history-search-for=['<path']
+
+[org/x/editor/state/window]
+size=(959, 1025)
+state=87168
+bottom-panel-size=140
+side-panel-size=200
+side-panel-active-page=827629879
+
+[org/cinnamon]
+extension-cache-updated=1595493192
+panels-height=['1:27']
+enabled-extensions=['gTile@shuairan', 'rnbdsh@negateWindow', 'cinnamon-maximus@fmete']
+command-history=['htop', 'bash htop', 'gnome-terminal', 'gnome-terminal htop', 'gnome-terminal && htop', 'gnome-terminal -e  htop']
+enabled-applets=['panel1:left:0:menu@cinnamon.org:54', 'panel1:left:2:panel-launchers@cinnamon.org:56', 'panel1:left:3:window-list@cinnamon.org:57', 'panel1:right:10:systray@cinnamon.org:58', 'panel1:right:11:xapp-status@cinnamon.org:59', 'panel1:right:12:keyboard@cinnamon.org:60', 'panel1:right:13:notifications@cinnamon.org:61', 'panel1:right:14:printers@cinnamon.org:62', 'panel1:right:15:removable-drives@cinnamon.org:63', 'panel1:right:16:user@cinnamon.org:64', 'panel1:right:17:network@cinnamon.org:65', 'panel1:right:18:sound@cinnamon.org:66', 'panel1:right:20:power@cinnamon.org:67', 'panel1:right:21:calendar@cinnamon.org:68', 'panel1:right:9:workspace-switcher@cinnamon.org:70', 'panel1:right:19:weather@mockturtl:71', 'panel1:right:7:cinnamon-timer@jake1164:72', 'panel1:right:5:hwmonitor@sylfurd:74', 'panel1:right:4:multicore-sys-monitor@ccadeptic23:75']
+workspace-osd-x=50
+panel-edit-mode=false
+next-applet-id=80
+enabled-desklets=@as []
+panel-launchers=['DEPRECATED']
+app-menu-label='Menu'
+panel-zone-icon-sizes='[{"panelId": 1, "left": 0, "center": 0, "right": 0}]'
+workspace-osd-y=50
+workspace-osd-duration=1333
+panel-zone-symbolic-icon-sizes='[{"panelId": 1, "left": 28, "center": 28, "right": 16}]'
+applet-cache-updated=1597047832
+panels-enabled=['1:0:bottom']
+
+[org/cinnamon/settings-daemon/plugins/power]
+critical-battery-action='shutdown'
+idle-dim-time=120
+sleep-inactive-battery-timeout=0
+lid-close-ac-action='suspend'
+lid-close-battery-action='suspend'
+sleep-inactive-ac-timeout=0
+sleep-display-ac=1800
+sleep-display-battery=1800
+
+[org/cinnamon/settings-daemon/peripherals/touchpad]
+motion-threshold=1
+custom-acceleration=true
+horizontal-scrolling=true
+custom-threshold=false
+scrolling-method=1
+motion-acceleration=3.6982248520710055
+natural-scroll=false
+
+[org/cinnamon/settings-daemon/peripherals/wacom/aaa642a1efb049fba8d6ca0c8d22ff0a-usb:056a:033b/0x8e2]
+buttonmapping=[1, 2, 3, 0, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+pressurecurve=[0, 0, 100, 100]
+
+[org/cinnamon/settings-daemon/peripherals/wacom/aaa642a1efb049fba8d6ca0c8d22ff0a-usb:056a:033b]
+area=[-1, -1, -1, -1]
+is-absolute=true
+
+[org/cinnamon/settings-daemon/peripherals/wacom/aaa642a1efb049fba8d6ca0c8d22ff0a-usb:056a:033b/buttonA]
+action-type='none'
+custom-action=''
+
+[org/cinnamon/settings-daemon/peripherals/keyboard]
+repeat-interval=uint32 30
+delay=uint32 500
+numlock-state='on'
+
+[org/cinnamon/settings-daemon/peripherals/mouse]
+drag-threshold=12
+custom-acceleration=true
+motion-acceleration=4.2307692307692308
+custom-threshold=true
+double-click=400
+locate-pointer=true
+motion-threshold=1
+
+[org/cinnamon/muffin]
+workspace-cycle=true
+
+[org/cinnamon/desktop/interface]
+cursor-size=24
+cursor-blink-time=1200
+icon-theme='Mint-X'
+gtk-theme='Adapta-Nokto'
+toolkit-accessibility=true
+
+[org/cinnamon/desktop/keybindings/custom-keybindings/custom1]
+binding=['<Primary><Alt>r']
+command='remmina'
+name='remmina'
+
+[org/cinnamon/desktop/keybindings/custom-keybindings/custom0]
+binding=['<Primary><Alt>d']
+command='xed'
+name='xed'
+
+[org/cinnamon/desktop/keybindings]
+magnifier-zoom-in=['<Alt><Super>equal', '<Alt><Super>dead_acute', '<Alt><Super>plus']
+custom-list=['custom0', 'custom1']
+magnifier-zoom-out=['<Alt><Super>minus']
+
+[org/cinnamon/desktop/keybindings/media-keys]
+decrease-text-size=['<Primary><Super>minus']
+area-screenshot-clip=['<Control><Shift>Print', '<Primary><Shift><Super>s']
+terminal=['<Primary><Alt>t', '<Super>t']
+calculator=['XF86Calculator', '<Primary><Alt>c']
+email=['XF86Mail', '<Primary><Alt>m']
+battery=['XF86Battery', '<Primary><Alt>b']
+kbd-brightness-down=['XF86KbdBrightnessDown', '<Shift>MonBrightnessDown']
+www=['XF86WWW', '<Primary><Alt>w']
+search=['XF86Search', '<Primary><Alt>s']
+increase-text-size=['<Primary><Super>dead_acute', '<Primary><Super>plus']
+home=['<Super>e', 'XF86Explorer', '<Primary><Alt>e']
+area-screenshot=['<Shift>Print', '<Shift><Super>s']
+on-screen-keyboard=['<Primary><Alt>k']
+kbd-brightness-up=['XF86KbdBrightnessUp', '<Shift>MonBrightnessUp']
+
+[org/cinnamon/desktop/keybindings/wm]
+move-to-corner-ne=['<Super>m']
+switch-windows-backward=['<Shift><Alt>Tab']
+move-to-workspace-1=['<Primary><Shift>F1']
+move-to-workspace-2=['<Primary><Shift>F2']
+move-to-workspace-3=['<Primary><Shift>F3']
+move-to-workspace-4=['<Primary><Shift>F4']
+move-to-workspace-5=['<Primary><Shift>F5']
+move-to-workspace-6=['<Primary><Shift>F6']
+move-to-workspace-7=['<Primary><Shift>F7']
+maximize-vertically=['<Primary><Alt><Super>Up']
+move-to-workspace-8=['<Primary><Shift>F8']
+move-to-workspace-9=['<Primary><Shift>F9']
+move-to-corner-nw=['<Super>n']
+switch-to-workspace-2=['<Primary>F2']
+switch-to-workspace-3=['<Primary>F3']
+switch-to-workspace-4=['<Primary>F4']
+switch-to-workspace-5=['<Primary>F5']
+switch-to-workspace-1=['<Primary>F1']
+switch-to-workspace-7=['<Primary>F7']
+switch-to-workspace-8=['<Primary>F8']
+switch-to-workspace-9=['<Primary>F9']
+maximize-horizontally=['<Primary><Alt><Super>Right']
+switch-to-workspace-6=['<Primary>F6']
+toggle-on-all-workspaces=['<Primary><Shift>F12']
+
+[org/cinnamon/desktop/media-handling]
+autorun-never=false
+
+[org/cinnamon/desktop/screensaver]
+layout-group=0
+
+[org/cinnamon/desktop/applications/calculator]
+exec='gnome-calculator'
+
+[org/cinnamon/desktop/applications/terminal]
+exec='gnome-terminal'
+
+[org/cinnamon/desktop/wm/preferences]
+theme='Adapta-Nokto'
+num-workspaces=9
+workspace-names=['Email', 'JIRA', 'Git', 'Jupyter', '', 'Remmina', 'VSCode', 'Chromium']
+
+[org/cinnamon/desktop/a11y/magnifier]
+mouse-tracking='proportional'
+lens-mode=false
+mag-factor=1.0
+screen-position='full-screen'
+lens-shape='square'
+scroll-at-edges=false
+
+[org/cinnamon/desktop/a11y/applications]
+screen-keyboard-enabled=true
+screen-magnifier-enabled=true
+
+[org/cinnamon/desktop/a11y/keyboard]
+mousekeys-init-delay=300
+mousekeys-max-speed=10
+mousekeys-accel-time=300
+bouncekeys-delay=300
+slowkeys-delay=300
+
+[org/cinnamon/desktop/a11y/mouse]
+secondary-click-time=1.2
+dwell-time=1.2
+dwell-threshold=10
+
+[org/cinnamon/desktop/sound]
+maximum-volume=100
+event-sounds=false
+
+[org/cinnamon/desktop/background]
+picture-uri='file:///usr/share/backgrounds/linuxmint-tessa/asoggetti_summit.jpg'
+picture-options='zoom'
+
+[org/cinnamon/desktop/background/slideshow]
+image-source='xml:///usr/share/cinnamon-background-properties/linuxmint-tessa.xml'
+delay=15
+
+[org/cinnamon/sounds]
+switch-file='/usr/share/mint-artwork/sounds/logout.ogg'
+login-enabled=false
+switch-enabled=true
+
+[org/cinnamon/theme]
+theme-cache-updated=1596792477
+name='Adapta-Nokto'
+
+[org/gnome/power-manager]
+info-history-type='charge'
+info-stats-type='discharge-accuracy'
+info-last-device='/org/freedesktop/UPower/devices/battery_BAT0'
+
+[org/gnome/file-roller/listing]
+sort-method='name'
+name-column-width=250
+sort-type='ascending'
+list-mode='as-folder'
+show-path=false
+
+[org/gnome/file-roller/ui]
+sidebar-width=200
+window-height=480
+window-width=600
+
+[org/gnome/calendar]
+window-position=(960, 0)
+active-view='month'
+window-maximized=false
+window-size=(960, 1004)
+
+[org/gnome/evolution-data-server]
+network-monitor-gio-name=''
+migrated=true
+
+[org/gnome/desktop/a11y/applications]
+screen-keyboard-enabled=true
+screen-reader-enabled=false
+
+[org/gnome/desktop/a11y/mouse]
+secondary-click-enabled=false
+secondary-click-time=1.2
+dwell-time=1.2
+dwell-threshold=10
+dwell-click-enabled=false
+
+[org/gnome/desktop/calendar]
+show-weekdate=false
+
+[org/gnome/desktop/interface]
+toolkit-accessibility=true
+
+[org/gnome/libgnomekbd/keyboard]
+layouts=['cz', 'us']
+options=['caps\tcaps:escape']
+
+[org/gnome/terminal/legacy/keybindings]
+toggle-menubar='<Primary>h'
+
+[org/gnome/terminal/legacy]
+menu-accelerator-enabled=false
+schema-version=uint32 3
+
+[org/gnome/nm-applet/eap/ced2f80a-f30d-4cde-a705-26de28767f6c]
+ignore-phase2-ca-cert=false
+ignore-ca-cert=false
+
+[org/gnome/nm-applet/eap/bd4112f3-6209-49f2-9493-ce02ae67ed41]
+ignore-phase2-ca-cert=false
+ignore-ca-cert=false
+
+[org/gnome/nm-applet/eap/d9c6b42c-a3ee-4af0-bfba-d6963e13a5c3]
+ignore-phase2-ca-cert=false
+ignore-ca-cert=false
+
+[org/gnome/nm-applet/eap/6f039f39-d157-49b5-a28f-05a4cbd5ce47]
+ignore-phase2-ca-cert=false
+ignore-ca-cert=false
+
+[org/gnome/nm-applet/eap/dc5046a5-4380-4e29-bb9f-e311eb5f2422]
+ignore-phase2-ca-cert=false
+ignore-ca-cert=false
+
+[org/gnome/gnome-system-monitor]
+show-dependencies=false
+cpu-colors=[(uint32 0, '#FF6E00'), (1, '#CB0C29'), (2, '#49A835'), (3, '#2D7DB3'), (4, '#f25915e815e8'), (5, '#f25915e815e8'), (6, '#f25915e815e8'), (7, '#f25915e815e8')]
+maximized=false
+window-state=(700, 500, 50, 50)
+show-whose-processes='user'
+
+[org/gnome/gnome-system-monitor/disktreenew]
+col-6-visible=true
+col-6-width=0
+
+[org/gtk/settings/file-chooser]
+sort-column='modified'
+sidebar-width=224
+window-position=(1372, 281)
+show-size-column=true
+show-hidden=false
+window-size=(1096, 1316)
+sort-directories-first=true
+date-format='regular'
+sort-order='descending'
+location-mode='path-bar'
+
+[org/gtk/settings/color-chooser]
+selected-color=(true, 0.9882352941176471, 0.68627450980392157, 0.24313725490196078, 1.0)
+custom-colors=[(1.0, 1.0, 1.0, 0.14999999999999999), (0.80000000000000004, 0.80000000000000004, 0.80000000000000004, 0.80000000000000004), (0.59999999999999998, 0.59999999999999998, 0.59999999999999998, 0.80000000000000004)]
+
+[org/onboard]
+system-theme-associations={'HighContrast': 'HighContrast', 'HighContrastInverse': 'HighContrastInverse', 'LowContrast': 'LowContrast', 'ContrastHighInverse': 'HighContrastInverse', 'Default': ''}
+use-system-defaults=false
+schema-version='2.3'
+
+[org/nemo/compact-view]
+default-zoom-level='large'
+
+[org/nemo/plugins]
+disabled-actions=@as []
+
+[org/nemo/window-state]
+sidebar-width=341
+side-pane-view='tree'
+geometry='1822x1168+999+473'
+start-with-sidebar=true
+maximized=false
+sidebar-bookmark-breakpoint=5
+
+[org/nemo/preferences]
+show-hidden-files=true
+default-folder-viewer='list-view'
+date-format='iso'
+inherit-folder-viewer=true
+show-location-entry=false
+last-server-connect-method=0
+show-compact-view-icon-toolbar=false
+
+[org/nemo/list-view]
+default-zoom-level='standard'
+
+[com/linuxmint/updates]
+hide-systray=true
+refresh-hours=1
+window-height=1014
+window-width=959
+show-welcome-page=false
+autorefresh-hours=8
+refresh-minutes=30
+hide-window-after-update=true
+window-pane-position=588
+refresh-last-run=1599120363
+
+[com/linuxmint/install]
+installed-apps=['apt:apt-transport-https', 'apt:autokey-gtk', 'apt:bashtop', 'apt:chromium-browser', 'apt:cmdtest', 'apt:code', 'apt:ffmpeg', 'apt:gimp', 'apt:gimp-help-en', 'apt:git', 'apt:htop', 'apt:hugo', 'apt:inkscape', 'apt:kazam', 'apt:kdeconnect', 'apt:kvpm', 'apt:linux-generic-hwe-18.04-edge', 'apt:mc', 'apt:nmap', 'apt:openconnect', 'apt:openoffice.org-hyphenation', 'apt:openssh-server', 'apt:owncloud-client', 'apt:remmina', 'apt:remmina-plugin-rdp', 'apt:remmina-plugin-secret', 'apt:spotify-client', 'apt:xdotool', 'fp:flathub:app/com.github.Alcaro.Flips/x86_64/stable', 'fp:flathub:app/com.bluejeans.BlueJeans/x86_64/stable', 'fp:flathub:app/org.gnome.LightsOff/x86_64/stable', 'fp:flathub:app/uk.me.doof.Lander/x86_64/stable', 'fp:flathub:app/net.sourceforge.torcs/x86_64/stable', 'fp:flathub:app/org.gnome.design.BannerViewer/x86_64/stable', 'fp:flathub:app/org.sugarlabs.Finance/x86_64/stable', 'fp:flathub:app/org.texstudio.TeXstudio/x86_64/stable', 'fp:flathub:app/io.github.kotatogram/x86_64/stable', 'fp:flathub:app/de.haeckerfelix.Fragments/x86_64/stable', 'fp:flathub:app/org.zulip.Zulip/x86_64/stable', 'fp:flathub:app/net.ankiweb.Anki/x86_64/stable', 'fp:flathub:app/net.danigm.timetrack/x86_64/stable', 'fp:flathub:app/com.github.junrrein.PDFSlicer/x86_64/stable', 'fp:flathub:app/org.plomgrading.PlomClient/x86_64/stable', 'fp:flathub:app/com.gitlab.bitseater.meteo/x86_64/stable', 'fp:flathub:app/org.kicad_pcb.KiCad/x86_64/stable', 'fp:flathub:app/org.libreoffice.LibreOffice/x86_64/stable', 'fp:flathub:app/net.mediaarea.MediaInfo/x86_64/stable', 'fp:flathub:app/dev.paullee.scraterpreter.Scrapec/x86_64/stable', 'fp:flathub:app/com.github.dariasteam.cowsrevenge/x86_64/stable', 'fp:flathub:app/org.olivevideoeditor.Olive/x86_64/stable', 'fp:flathub:app/com.katawa_shoujo.KatawaShoujo/x86_64/stable', 'fp:flathub:app/com.github.xournalpp.xournalpp/x86_64/stable', 'fp:flathub:app/io.github.maurycyliebner.enve/x86_64/stable', 'fp:flathub:app/chat.delta.desktop/x86_64/stable', 'fp:flathub:app/com.github.bilelmoussaoui.Authenticator/x86_64/stable', 'fp:flathub:app/net.dengine.Doomsday/x86_64/stable', 'fp:flathub:app/com.viewizard.AstroMenace/x86_64/stable', 'fp:flathub:app/org.gnome.glabels-3/x86_64/stable', 'fp:flathub:app/re.sonny.Tangram/x86_64/stable', 'fp:flathub:app/io.designer.GravitDesigner/x86_64/stable', 'fp:flathub:app/org.gnome.DejaDup/x86_64/stable', 'fp:flathub:app/org.kde.minuet/x86_64/stable', 'fp:flathub:app/com.github.miguelmota.Cointop/x86_64/stable', 'fp:flathub:app/org.gnome.Contacts/x86_64/stable', 'fp:flathub:app/com.toggl.TogglDesktop/x86_64/stable', 'fp:flathub:app/com.github.optyfr.JRomManager/x86_64/stable', 'fp:flathub:app/ca.desrt.dconf-editor/x86_64/stable', 'fp:flathub:app/org.gnome.ColorViewer/x86_64/stable', 'fp:flathub:app/org.gnome.Klotski/x86_64/stable', 'fp:flathub:app/vn.hoabinh.quan.CoBang/x86_64/stable', 'fp:flathub:app/org.xiphos.Xiphos/x86_64/stable', 'fp:flathub:app/org.gnome.Characters/x86_64/stable', 'fp:flathub:app/org.tuxfamily.XMoto/x86_64/stable', 'fp:flathub:app/com.syntevo.SmartGit/x86_64/stable', 'fp:flathub:app/uk.co.powdertoy.tpt/x86_64/stable', 'fp:flathub:app/org.gnome.Epiphany/x86_64/stable', 'fp:flathub:app/in.bharatkalluri.shortcircuit/x86_64/stable', 'fp:flathub:app/com.kavilgroup.gestimator/x86_64/stable', 'fp:flathub:app/org.megaglest.MegaGlest/x86_64/stable', 'fp:flathub:app/org.openttd.OpenTTD/x86_64/stable', 'fp:flathub:app/com.georgefb.quickaccess/x86_64/stable', 'fp:flathub:app/org.kde.kpat/x86_64/stable', 'fp:flathub:app/com.abisource.AbiWord/x86_64/stable', 'fp:flathub:app/org.jdownloader.JDownloader/x86_64/stable', 'fp:flathub:app/com.uploadedlobster.peek/x86_64/stable', 'fp:flathub:app/com.openwall.John/x86_64/stable', 'fp:flathub:app/com.github.alainm23.byte/x86_64/stable', 'fp:flathub:app/org.groestlcoin.electrum-grs/x86_64/stable', 'fp:flathub:app/org.synfig.SynfigStudio/x86_64/stable', 'fp:flathub:app/org.kde.kigo/x86_64/stable', 'fp:flathub:app/org.gottcode.Peg-E/x86_64/stable', 'fp:flathub:app/org.gnome.font-viewer/x86_64/stable', 'fp:flathub:app/com.mojang.Minecraft/x86_64/stable', 'fp:flathub:app/io.github.mki1967.mki3dgame/x86_64/stable', 'fp:flathub:app/org.gnome.design.AppIconPreview/x86_64/stable', 'fp:flathub:app/com.github.calo001.fondo/x86_64/stable', 'fp:flathub:app/org.kde.katomic/x86_64/stable', 'fp:flathub:app/org.freefilesync.FreeFileSync/x86_64/stable', 'fp:flathub:app/org.munadi.Munadi/x86_64/stable', 'fp:flathub:app/com.play0ad.zeroad/x86_64/stable', 'fp:flathub:app/org.fdroid.Repomaker/x86_64/stable', 'fp:flathub:app/io.gitlab.Goodvibes/x86_64/stable', 'fp:flathub:app/com.github.libresprite.LibreSprite/x86_64/stable', 'fp:flathub:app/org.flathub.flatpak-external-data-checker/x86_64/stable', 'fp:flathub:app/network.loki.Session/x86_64/stable', 'fp:flathub:app/de.ifw_dresden.nagstamon/x86_64/stable', 'fp:flathub:app/org.speed_dreams.SpeedDreams/x86_64/stable', 'fp:flathub:app/org.pyzo.pyzo/x86_64/stable', 'fp:flathub:app/net.lugsole.bible_gui/x86_64/stable', 'fp:flathub:app/io.github.hermitdemschoenenleben.linien/x86_64/stable', 'fp:flathub:app/org.freedesktop.Piper/x86_64/stable', 'fp:flathub:app/org.ppsspp.PPSSPP/x86_64/stable', 'fp:flathub:app/io.github.jliljebl.Flowblade/x86_64/stable', 'fp:flathub:app/org.karapulse.Karapulse/x86_64/stable', 'fp:flathub:app/edu.mit.Scratch/x86_64/stable', 'fp:flathub:app/net.scribus.Scribus/x86_64/stable', 'fp:flathub:app/org.zealdocs.Zeal/x86_64/stable', 'fp:flathub:app/org.tabos.maxcontrol/x86_64/stable', 'fp:flathub:app/com.gitlab.newsflash/x86_64/stable', 'fp:flathub:app/space.fips.Fips/x86_64/stable', 'fp:flathub:app/org.qownnotes.QOwnNotes/x86_64/stable', 'fp:flathub:app/org.mypaint.MyPaint/x86_64/stable', 'fp:flathub:app/com.dropbox.Client/x86_64/stable', 'fp:flathub:app/net.sourceforge.btanks/x86_64/stable', 'fp:flathub:app/com.tonikelope.MegaBasterd/x86_64/stable', 'fp:flathub:app/com.sweethome3d.Sweethome3d/x86_64/stable', 'fp:flathub:app/org.gnome.Geary/x86_64/stable', 'fp:flathub:app/org.gnome.Genius/x86_64/stable', 'fp:flathub:app/org.shadowsocks.qt5client/x86_64/stable', 'fp:flathub:app/com.github.gijsgoudzwaard.image-optimizer/x86_64/stable', 'fp:flathub:app/io.ark.Desktop/x86_64/stable', 'fp:flathub:app/com.github.appadeia.Taigo/x86_64/stable', 'fp:flathub:app/com.github.labyrinth_team.labyrinth/x86_64/stable', 'fp:flathub:app/io.github.celluloid_player.Celluloid/x86_64/stable', 'fp:flathub:app/org.opensurge2d.OpenSurge/x86_64/stable', 'fp:flathub:app/com.albiononline.AlbionOnline/x86_64/stable', 'fp:flathub:app/com.github.fabiocolacio.marker/x86_64/stable', 'fp:flathub:app/com.mattermost.Desktop/x86_64/stable', 'fp:flathub:app/org.gnome.Aisleriot/x86_64/stable', 'fp:flathub:app/org.signal.Signal/x86_64/stable', 'fp:flathub:app/io.liri.Text/x86_64/stable', 'fp:flathub:app/de.rwth_aachen.ient.RDPlot/x86_64/stable', 'fp:flathub:app/com.inform7.IDE/x86_64/stable', 'fp:flathub:app/com.github.PintaProject.Pinta/x86_64/stable', 'fp:flathub:app/com.github.huluti.Coulr/x86_64/stable', 'fp:flathub:app/com.github.babluboy.bookworm/x86_64/stable', 'fp:flathub:app/com.xnview.XnSketch/x86_64/stable', 'fp:flathub:app/org.gnome.Taquin/x86_64/stable', 'fp:flathub:app/uk.co.ibboard.cawbird/x86_64/stable', 'fp:flathub:app/io.github.jkozera.ZevDocs/x86_64/stable', 'fp:flathub:app/org.gnucash.GnuCash/x86_64/stable', 'fp:flathub:app/com.orama_interactive.Pixelorama/x86_64/stable', 'fp:flathub:app/io.liri.Calculator/x86_64/stable', 'fp:flathub:app/org.gottcode.Tetzle/x86_64/stable', 'fp:flathub:app/com.synology.SynologyDrive/x86_64/stable', 'fp:flathub:app/org.sugarlabs.ImplodeActivity/x86_64/stable', 'fp:flathub:app/org.gnome.design.IconLibrary/x86_64/stable', 'fp:flathub:app/io.webtorrent.WebTorrent/x86_64/stable', 'fp:flathub:app/com.github.bajoja.indicator-kdeconnect/x86_64/stable', 'fp:flathub:app/org.gnu.emacs/x86_64/stable', 'fp:flathub:app/com.endlessnetwork.aqueducts/x86_64/stable', 'fp:flathub:app/org.gnome.design.Contrast/x86_64/stable', 'fp:flathub:app/party.supertux.supertuxparty/x86_64/stable', 'fp:flathub:app/org.sugarlabs.ReadETexts/x86_64/stable', 'fp:flathub:app/net.sourceforge.Klavaro/x86_64/stable', 'fp:flathub:app/net.sourceforge.atanks/x86_64/stable', 'fp:flathub:app/net.fsuae.FS-UAE/x86_64/stable', 'fp:flathub:app/cat.xtec.clic.JClic/x86_64/stable', 'fp:flathub:app/me.njean.shootingpactris/x86_64/stable', 'fp:flathub:app/dev.paullee.scraterpreter.Scrape/x86_64/stable', 'fp:flathub:app/net.sourceforge.Ri-li/x86_64/stable', 'fp:flathub:app/org.gabmus.unifydmin/x86_64/stable', 'fp:flathub:app/org.kde.kblocks/x86_64/stable', 'fp:flathub:app/org.stellarium.Stellarium/x86_64/stable', 'fp:flathub:app/org.gnome.Boxes/x86_64/stable', 'fp:flathub:app/net.veloren.veloren/x86_64/stable', 'fp:flathub:app/org.gnome.Gtranslator/x86_64/stable', 'fp:flathub:app/com.icanblink.blink/x86_64/stable', 'fp:flathub:app/com.visualstudio.code/x86_64/stable', 'fp:flathub:app/org.gnome.chess/x86_64/stable', 'fp:flathub:app/com.calibre_ebook.calibre/x86_64/stable', 'fp:flathub:app/im.bernard.Nostalgia/x86_64/stable', 'fp:flathub:app/com.remarkable.reMarkable/x86_64/stable', 'fp:flathub:app/org.sparkleshare.SparkleShare/x86_64/stable', 'fp:flathub:app/org.tlauncher.TLauncher/x86_64/stable', 'fp:flathub:app/com.lettier.movie-monad/x86_64/stable', 'fp:flathub:app/org.kde.gcompris/x86_64/stable', 'fp:flathub:app/com.gitlab.coringao.cavestory-nx/x86_64/stable', 'fp:flathub:app/com.github._4lex4.ScanTailor-Advanced/x86_64/stable', 'fp:flathub:app/net.bartkessels.getit/x86_64/stable', 'fp:flathub:app/io.atom.Atom/x86_64/stable', 'fp:flathub:app/com.giuspen.cherrytree/x86_64/stable', 'fp:flathub:app/io.github.Hexchat/x86_64/stable', 'fp:flathub:app/com.realm667.WolfenDoom_Blade_of_Agony/x86_64/stable', 'fp:flathub:app/org.gnome.PasswordSafe/x86_64/stable', 'fp:flathub:app/io.github.GnomeMpv/x86_64/stable', 'fp:flathub:app/com.itopia.client/x86_64/stable', 'fp:flathub:app/org.supertuxproject.SuperTux/x86_64/stable', 'fp:flathub:app/org.manaplus.ManaPlus/x86_64/stable', 'fp:flathub:app/net.sourceforge.ExtremeTuxRacer/x86_64/stable', 'fp:flathub:app/com.github.ojubaorg.Othman/x86_64/stable', 'fp:flathub:app/com.moddb.TotalChaos/x86_64/stable', 'fp:flathub:app/org.filezillaproject.Filezilla/x86_64/stable', 'fp:flathub:app/com.github.geigi.cozy/x86_64/stable', 'fp:flathub:app/org.sugarlabs.Maze/x86_64/stable', 'fp:flathub:app/com.beakerbrowser.Beaker/x86_64/stable', 'fp:flathub:app/org.gnome.Mahjongg/x86_64/stable', 'fp:flathub:app/info.bibletime.BibleTime/x86_64/stable', 'fp:flathub:app/org.glimpse_editor.Glimpse/x86_64/stable', 'fp:flathub:app/org.openscad.OpenSCAD/x86_64/stable', 'fp:flathub:app/com.github.quaternion/x86_64/stable', 'fp:flathub:app/net.sf.fuse_emulator/x86_64/stable', 'fp:flathub:app/org.zaproxy.ZAP/x86_64/stable', 'fp:flathub:app/co.headsetapp.headset/x86_64/stable', 'fp:flathub:app/fr.free.Homebank/x86_64/stable', 'fp:flathub:app/fr.fgrabenstaetter.DigitalAssets/x86_64/stable', 'fp:flathub:app/io.thp.numptyphysics/x86_64/stable', 'fp:flathub:app/com.jetbrains.PhpStorm/x86_64/stable', 'fp:flathub:app/io.github.mujx.Nheko/x86_64/stable', 'fp:flathub:app/com.github.cassidyjames.dippi/x86_64/stable', 'fp:flathub:app/org.kde.ark/x86_64/stable', 'fp:flathub:app/org.sugarlabs.Memorize/x86_64/stable', 'fp:flathub:app/org.gnome.Calendar/x86_64/stable', 'fp:flathub:app/org.sugarlabs.Pippy/x86_64/stable', 'fp:flathub:app/org.sugarlabs.FotoToon/x86_64/stable', 'fp:flathub:app/org.midori_browser.Midori/x86_64/stable', 'fp:flathub:app/org.sugarlabs.Speak/x86_64/stable', 'fp:flathub:app/org.gnome.Polari/x86_64/stable', 'fp:flathub:app/org.apache.netbeans/x86_64/stable', 'fp:flathub:app/com.github.matfantinel.moneta/x86_64/stable', 'fp:flathub:app/io.github.fin_ger.OvGUCanteen/x86_64/stable', 'fp:flathub:app/org.DolphinEmu.dolphin-emu/x86_64/stable', 'fp:flathub:app/uk.co.mangobrain.Infector/x86_64/stable', 'fp:flathub:app/com.wire.WireDesktop/x86_64/stable', 'fp:flathub:app/com.tux4kids.tuxmath/x86_64/stable', 'fp:flathub:app/org.fontforge.FontForge/x86_64/stable', 'fp:flathub:app/org.kiwix.desktop/x86_64/stable', 'fp:flathub:app/com.github.louis77.tuner/x86_64/stable', 'fp:flathub:app/io.dbeaver.DBeaverCommunity/x86_64/stable', 'fp:flathub:app/ch.openboard.OpenBoard/x86_64/stable', 'fp:flathub:app/org.gnome.design.VectorSlicer/x86_64/stable', 'fp:flathub:app/org.kde.kdiamond/x86_64/stable', 'fp:flathub:app/org.sugarlabs.AbacusActivity/x86_64/stable', 'fp:flathub:app/de.wolfvollprecht.UberWriter/x86_64/stable', 'fp:flathub:app/org.kde.knavalbattle/x86_64/stable', 'fp:flathub:app/io.github.hakuneko.HakuNeko/x86_64/stable', 'fp:flathub:app/net.sourceforge.fretsonfire/x86_64/stable', 'fp:flathub:app/org.xonotic.Xonotic/x86_64/stable', 'fp:flathub:app/com.zandronum.Zandronum/x86_64/stable', 'fp:flathub:app/io.github.ImEditor/x86_64/stable', 'fp:flathub:app/net.jami.Jami/x86_64/stable', 'fp:flathub:app/de.klayout.KLayout/x86_64/stable', 'fp:flathub:app/com.stepmania.StepMania/x86_64/stable', 'fp:flathub:app/org.qutebrowser.qutebrowser/x86_64/stable', 'fp:flathub:app/org.freecol.FreeCol/x86_64/stable', 'fp:flathub:app/org.gnome.ghex/x86_64/stable', 'fp:flathub:app/com.notepadqq.Notepadqq/x86_64/stable', 'fp:flathub:app/org.entangle_photo.Manager/x86_64/stable', 'fp:flathub:app/com.github.naaando.lyrics/x86_64/stable', 'fp:flathub:app/us.zoom.Zoom/x86_64/stable', 'fp:flathub:app/io.github.openWMail.openWMail/x86_64/stable', 'fp:flathub:app/com.github.artemanufrij.playmymusic/x86_64/stable', 'fp:flathub:app/io.brackets.Brackets/x86_64/stable', 'fp:flathub:app/org.sugarlabs.Chart/x86_64/stable', 'fp:flathub:app/org.remmina.Remmina/x86_64/stable', 'fp:flathub:app/xyz.z3ntu.razergenie/x86_64/stable', 'fp:flathub:app/org.pulseaudio.pavucontrol/x86_64/stable', 'fp:flathub:app/org.gnome.zbrown.Palette/x86_64/stable', 'fp:flathub:app/com.jagex.RuneScape/x86_64/stable', 'fp:flathub:app/org.wireshark.Wireshark/x86_64/stable', 'fp:flathub:app/org.gnome.GTG/x86_64/stable', 'fp:flathub:app/org.gnome.TwentyFortyEight/x86_64/stable', 'fp:flathub:app/org.kde.kxstitch/x86_64/stable', 'fp:flathub:app/org.dash.electrum.electrum_dash/x86_64/stable', 'fp:flathub:app/org.sugarlabs.TurtlePondActivity/x86_64/stable', 'fp:flathub:app/org.eyecreate.qiflora/x86_64/stable', 'fp:flathub:app/org.flatpak.Builder/x86_64/stable', 'fp:flathub:app/org.kde.elisa/x86_64/stable', 'fp:flathub:app/com.github.tmewett.BrogueCE/x86_64/stable', 'fp:flathub:app/com.github.skullernet.q2pro/x86_64/stable', 'fp:flathub:app/tw.ddnet.ddnet/x86_64/stable', 'fp:flathub:app/com.github.lainsce.coin/x86_64/stable', 'fp:flathub:app/org.mobsya.ThymioSuite/x86_64/stable', 'fp:flathub:app/org.librepcb.LibrePCB/x86_64/stable', 'fp:flathub:app/org.freedesktop.Bustle/x86_64/stable', 'fp:flathub:app/com.vinszent.GnomeTwitch/x86_64/stable', 'fp:flathub:app/com.jetbrains.PyCharm-Community/x86_64/stable', 'fp:flathub:app/net.sourceforge.xournal/x86_64/stable', 'fp:flathub:app/org.kde.kcalc/x86_64/stable', 'fp:flathub:app/com.github.danrabbit.harvey/x86_64/stable', 'fp:flathub:app/net.sourceforge.qtpfsgui.LuminanceHDR/x86_64/stable', 'fp:flathub:app/com.jetbrains.IntelliJ-IDEA-Ultimate/x86_64/stable', 'fp:flathub:app/org.flatpak.flat-manager-client/x86_64/stable', 'fp:flathub:app/net.sf.VICE/x86_64/stable', 'fp:flathub:app/net.sourceforge.Lifeograph/x86_64/stable', 'fp:flathub:app/de.manuel_kehl.go-for-it/x86_64/stable', 'fp:flathub:app/io.github.FreeDM/x86_64/stable', 'fp:flathub:app/com.bitstower.Markets/x86_64/stable', 'fp:flathub:app/com.github.artemanufrij.playmyvideos/x86_64/stable', 'fp:flathub:app/com.gitlab.cunidev.Workflow/x86_64/stable', 'fp:flathub:app/org.processing.processingide/x86_64/stable', 'fp:flathub:app/org.gnome.Maps/x86_64/stable', 'fp:flathub:app/au.edu.uq.esys.escript/x86_64/stable', 'fp:flathub:app/org.kde.kdenlive/x86_64/stable', 'fp:flathub:app/com.github.IsmaelMartinez.teams_for_linux/x86_64/stable', 'fp:flathub:app/org.gnome.Eolie/x86_64/stable', 'fp:flathub:app/org.netsurf_browser.NetSurf/x86_64/stable', 'fp:flathub:app/io.trustable.stpadocumentationtool/x86_64/stable', 'fp:flathub:app/org.electrum.electrum/x86_64/stable', 'fp:flathub:app/com.github.muriloventuroso.pdftricks/x86_64/stable', 'fp:flathub:app/com.hamrick.VueScan/x86_64/stable', 'fp:flathub:app/com.st.STM32CubeIDE/x86_64/stable', 'fp:flathub:app/org.gnome.Firmware/x86_64/stable', 'fp:flathub:app/com.github.jeromerobert.pdfarranger/x86_64/stable', 'fp:flathub:app/org.nongnu.gsequencer.gsequencer/x86_64/stable', 'fp:flathub:app/com.airtame.Client/x86_64/stable', 'fp:flathub:app/org.gnome.Totem/x86_64/stable', 'fp:flathub:app/com.github.hluk.copyq/x86_64/stable', 'fp:flathub:app/com.unity.UnityHub/x86_64/stable', 'fp:flathub:app/uk.jnthn.backgammony/x86_64/stable', 'fp:flathub:app/org.gimp.GIMP/x86_64/stable', 'fp:flathub:app/org.gnode.NixView/x86_64/stable', 'fp:flathub:app/net.rpcs3.RPCS3/x86_64/stable', 'fp:flathub:app/io.github.ezQuake/x86_64/stable', 'fp:flathub:app/io.itch.azagaya.Laigter/x86_64/stable', 'fp:flathub:app/org.kde.kgeography/x86_64/stable', 'fp:flathub:app/io.botfather.Botfather/x86_64/stable', 'fp:flathub:app/info.febvre.Komikku/x86_64/stable', 'fp:flathub:app/io.github.kaschpal.timetable/x86_64/stable', 'fp:flathub:app/org.gnome.Music/x86_64/stable', 'fp:flathub:app/com.belmoussaoui.ReadItLater/x86_64/stable', 'fp:flathub:app/com.szibele.e-juice-calc/x86_64/stable', 'fp:flathub:app/org.eyecreate.vehiclevoyage/x86_64/stable', 'fp:flathub:app/org.frozen_bubble.frozen-bubble/x86_64/stable', 'fp:flathub:app/net.jammr.jammr/x86_64/stable', 'fp:flathub:app/com.github.philip_scott.spice-up/x86_64/stable', 'fp:flathub:app/org.vim.Vim/x86_64/stable', 'fp:flathub:app/org.kde.ktuberling/x86_64/stable', 'fp:flathub:app/org.gnome.Games/x86_64/stable', 'fp:flathub:app/net.sourceforge.Chessx/x86_64/stable', 'fp:flathub:app/com.xnview.XnViewMP/x86_64/stable', 'fp:flathub:app/org.emilien.Password/x86_64/stable', 'fp:flathub:app/org.kosmospredanie.Yakblt/x86_64/stable', 'fp:flathub:app/eu.scarpetta.PDFMixTool/x86_64/stable', 'fp:flathub:app/com.irccloud.desktop/x86_64/stable', 'fp:flathub:app/io.otsaloma.nfoview/x86_64/stable', 'fp:flathub:app/com.endlessnetwork.dragonsapprentice/x86_64/stable', 'fp:flathub:app/io.photoflare.photoflare/x86_64/stable', 'fp:flathub:app/org.kde.ksudoku/x86_64/stable', 'fp:flathub:app/io.github.technic.e2designer/x86_64/stable', 'fp:flathub:app/com.jetbrains.IntelliJ-IDEA-Community/x86_64/stable', 'fp:flathub:app/org.kde.kbounce/x86_64/stable', 'fp:flathub:app/org.yamagi.YamagiQ2/x86_64/stable', 'fp:flathub:app/io.gitlab.Turtlico/x86_64/stable', 'fp:flathub:app/org.gottcode.CuteMaze/x86_64/stable', 'fp:flathub:app/fr.handbrake.ghb/x86_64/stable', 'fp:flathub:app/org.zdoom.GZDoom/x86_64/stable', 'fp:flathub:app/org.kde.digikam/x86_64/stable', 'fp:flathub:app/com.teamspeak.TeamSpeak/x86_64/stable', 'fp:flathub:app/org.freedesktop.Tuhi/x86_64/stable', 'fp:flathub:app/com.flashforge.FlashPrint/x86_64/stable', 'fp:flathub:app/com.snes9x.Snes9x/x86_64/stable', 'fp:flathub:app/org.tordini.flavio.Minitube/x86_64/stable', 'fp:flathub:app/com.alientrap.nexuiz-classic/x86_64/stable', 'fp:flathub:app/org.gnome.Glade/x86_64/stable', 'fp:flathub:app/com.endlessm.HatchPreviewer/x86_64/stable', 'fp:flathub:app/com.tutanota.Tutanota/x86_64/stable', 'fp:flathub:app/ch.protonmail.protonmail-bridge/x86_64/stable', 'fp:flathub:app/org.geany.Geany/x86_64/stable', 'fp:flathub:app/com.github.jms55.Sandbox/x86_64/stable', 'fp:flathub:app/org.gtkhash.gtkhash/x86_64/stable', 'fp:flathub:app/org.groestlcoin.groestlcoin-qt/x86_64/stable', 'fp:flathub:app/org.ardour.Ardour/x86_64/stable', 'fp:flathub:app/io.gitlab.construo.construo/x86_64/stable', 'fp:flathub:app/org.tug.texworks/x86_64/stable', 'fp:flathub:app/de.willuhn.Jameica/x86_64/stable', 'fp:flathub:app/org.kde.kapman/x86_64/stable', 'fp:flathub:app/io.github.freedoom.Phase2/x86_64/stable', 'fp:flathub:app/net.minetest.Minetest/x86_64/stable', 'fp:flathub:app/org.gnome.Books/x86_64/stable', 'fp:flathub:app/org.kde.palapeli/x86_64/stable', 'fp:flathub:app/org.openshot.OpenShot/x86_64/stable', 'fp:flathub:app/net.pcsx2.PCSX2/x86_64/stable', 'fp:flathub:app/com.github.afrantzis.Bless/x86_64/stable', 'fp:flathub:app/org.gnome.frogr/x86_64/stable', 'fp:flathub:app/io.mrarm.mcpelauncher/x86_64/stable', 'fp:flathub:app/org.kde.krita/x86_64/stable', 'fp:flathub:app/org.kde.kwordquiz/x86_64/stable', 'fp:flathub:app/org.kde.kolourpaint/x86_64/stable', 'fp:flathub:app/com.jonathankang.Weibird/x86_64/stable', 'fp:flathub:app/org.vergecurrency.verge-qt/x86_64/stable', 'fp:flathub:app/io.github.markummitchell.Engauge_Digitizer/x86_64/stable', 'fp:flathub:app/io.github.freedoom.FreeDM/x86_64/stable', 'fp:flathub:app/com.github.eudaldgr.elements/x86_64/stable', 'fp:flathub:app/org.gnome.Sudoku/x86_64/stable', 'fp:flathub:app/org.kde.dolphin/x86_64/stable', 'fp:flathub:app/io.github.endless_sky.endless_sky/x86_64/stable', 'fp:flathub:app/org.gnome.quadrapassel/x86_64/stable', 'fp:flathub:app/de.uni_heidelberg.zah.GaiaSky/x86_64/stable', 'fp:flathub:app/io.gitlab.sdl_jstest.sdl2_jstest/x86_64/stable', 'fp:flathub:app/app.rednotebook.RedNotebook/x86_64/stable', 'fp:flathub:app/com.borgbase.Vorta/x86_64/stable', 'fp:flathub:app/io.github.NhekoReborn.Nheko/x86_64/stable', 'fp:flathub:app/com.rawtherapee.RawTherapee/x86_64/stable', 'fp:flathub:app/com.github.maoschanz.drawing/x86_64/stable', 'fp:flathub:app/com.github.unrud.djpdf/x86_64/stable', 'fp:flathub:app/com.github.marktext.marktext/x86_64/stable', 'fp:flathub:app/net.pioneerspacesim.Pioneer/x86_64/stable', 'fp:flathub:app/org.clementine_player.Clementine/x86_64/stable', 'fp:flathub:app/com.adobe.Flash-Player-Projector/x86_64/stable', 'fp:flathub:app/ind.ie.Gnomit/x86_64/stable', 'fp:flathub:app/org.freedesktop.GlxInfo/x86_64/18.08', 'fp:flathub:app/com.getferdi.Ferdi/x86_64/stable', 'fp:flathub:app/net.oz9aec.Gpredict/x86_64/stable', 'fp:flathub:app/org.kde.okular/x86_64/stable', 'fp:flathub:app/org.gottcode.Connectagram/x86_64/stable', 'fp:flathub:app/org.nicotine_plus.Nicotine/x86_64/stable', 'fp:flathub:app/org.musescore.MuseScore/x86_64/stable', 'fp:flathub:app/org.mixxx.Mixxx/x86_64/stable', 'fp:flathub:app/com.github.philip_scott.notes-up/x86_64/stable', 'fp:flathub:app/net.mancubus.SLADE/x86_64/stable', 'fp:flathub:app/org.gnome.Podcasts/x86_64/stable', 'fp:flathub:app/org.freeciv.Freeciv/x86_64/stable', 'fp:flathub:app/com.github.Anuken.Mindustry/x86_64/stable', 'fp:flathub:app/org.nextcloud.Nextcloud/x86_64/stable', 'fp:flathub:app/org.vranki.spectral/x86_64/stable', 'fp:flathub:app/org.gajim.Gajim/x86_64/stable', 'fp:flathub:app/io.gitlab.osslugaru.Lugaru/x86_64/stable', 'fp:flathub:app/org.gnome.Devhelp/x86_64/stable', 'fp:flathub:app/net.sourceforge.Teo/x86_64/stable', 'fp:flathub:app/de.akaflieg_freiburg.cavok.add_hours_and_minutes/x86_64/stable', 'fp:flathub:app/com.github.alainm23.planner/x86_64/stable', 'fp:flathub:app/com.dhsdevelopments.Climaxima/x86_64/stable', 'fp:flathub:app/im.pidgin.Pidgin/x86_64/stable', 'fp:flathub:app/net.drawpile.drawpile/x86_64/stable', 'fp:flathub:app/com.visualstudio.code-oss/x86_64/stable', 'fp:flathub:app/codes.nora.gDiceRoller/x86_64/stable', 'fp:flathub:app/org.gnome.Hitori/x86_64/stable', 'fp:flathub:app/org.gnome.Pinpoint/x86_64/stable', 'fp:flathub:app/org.cvfosammmm.Porto/x86_64/stable', 'fp:flathub:app/io.gitlab.evtest_qt.evtest_qt/x86_64/stable', 'fp:flathub:app/io.github.fabiangreffrath.Doom/x86_64/stable', 'fp:flathub:app/in.p1x.TanksOfFreedom/x86_64/stable', 'fp:flathub:app/com.github.themix_project.Oomox/x86_64/stable', 'fp:flathub:app/io.github.erkin.ponysay/x86_64/stable', 'fp:flathub:app/io.kopia.KopiaUI/x86_64/stable', 'fp:flathub:app/cx.ring.Ring/x86_64/stable', 'fp:flathub:app/org.hydrogenmusic.Hydrogen/x86_64/stable', 'fp:flathub:app/org.sugarlabs.Physics/x86_64/stable', 'fp:flathub:app/io.gitlab.o20.word/x86_64/stable', 'fp:flathub:app/fr.natron.Natron/x86_64/stable', 'fp:flathub:app/org.gnome.Nautilus/x86_64/stable', 'fp:flathub:app/com.moonlight_stream.Moonlight/x86_64/stable', 'fp:flathub:app/org.kde.lokalize/x86_64/stable', 'fp:flathub:app/io.github.mmstick.FontFinder/x86_64/stable', 'fp:flathub:app/io.gitlab.jstest_gtk.jstest_gtk/x86_64/stable', 'fp:flathub:app/im.riot.Riot/x86_64/stable', 'fp:flathub:app/dk.tangramgames.mrrescue/x86_64/stable', 'fp:flathub:app/org.naev.Naev/x86_64/stable', 'fp:flathub:app/org.zim_wiki.Zim/x86_64/stable', 'fp:flathub:app/io.github.Pithos/x86_64/stable', 'fp:flathub:app/io.bit3.ThreemaQT/x86_64/stable', 'fp:flathub:app/org.raspberrypi.rpi-imager/x86_64/stable', 'fp:flathub:app/org.gnome.Gnote/x86_64/stable', 'fp:flathub:app/org.onlyoffice.desktopeditors/x86_64/stable', 'fp:flathub:app/org.sugarlabs.FractionBounce/x86_64/stable', 'fp:flathub:app/com.gitlab.kendellfab.restscope/x86_64/stable', 'fp:flathub:app/com.github.rkoesters.xkcd-gtk/x86_64/stable', 'fp:flathub:app/io.gitlab.floodlight.Presenter/x86_64/stable', 'fp:flathub:app/net.sourceforge.QtSpim/x86_64/stable', 'fp:flathub:app/com.github.alecaddd.sequeler/x86_64/stable', 'fp:flathub:app/org.taisei_project.Taisei/x86_64/stable', 'fp:flathub:app/work.openpaper.Paperwork/x86_64/stable', 'fp:flathub:app/org.lamport.tla.toolbox/x86_64/stable', 'fp:flathub:app/org.bunkus.mkvtoolnix-gui/x86_64/stable', 'fp:flathub:app/com.synology.CloudStationBackup/x86_64/stable', 'fp:flathub:app/io.exodus.Exodus/x86_64/stable', 'fp:flathub:app/com.github.rssguard/x86_64/stable', 'fp:flathub:app/org.codeblocks.codeblocks/x86_64/stable', 'fp:flathub:app/cc.nift.nsm/x86_64/stable', 'fp:flathub:app/com.bixense.PasswordCalculator/x86_64/stable', 'fp:flathub:app/org.gnome.Dictionary/x86_64/stable', 'fp:flathub:app/org.gnome.design.SymbolicPreview/x86_64/stable', 'fp:flathub:app/eu.planete_kraus.Tarot/x86_64/stable', 'fp:flathub:app/org.widelands.Widelands/x86_64/stable', 'fp:flathub:app/org.gnome.meld/x86_64/stable', 'fp:flathub:app/org.openclonk.OpenClonk/x86_64/stable', 'fp:flathub:app/org.wxhexeditor.wxHexEditor/x86_64/stable', 'fp:flathub:app/org.robocode.Robocode/x86_64/stable', 'fp:flathub:app/org.gnome.gitlab.YaLTeR.VideoTrimmer/x86_64/stable', 'fp:flathub:app/org.gnome.OfficeRunner/x86_64/stable', 'fp:flathub:app/com.github.gkarsay.parlatype/x86_64/stable', 'fp:flathub:app/com.github.artemanufrij.graphui/x86_64/stable', 'fp:flathub:app/org.supertux.SuperTux-Milestone1/x86_64/stable', 'fp:flathub:app/org.mozilla.Thunderbird/x86_64/stable', 'fp:flathub:app/com.github.emmanueltouzery.cigale/x86_64/stable', 'fp:flathub:app/com.leinardi.gkraken/x86_64/stable', 'fp:flathub:app/io.elementary.code/x86_64/stable', 'fp:flathub:app/org.quassel_irc.QuasselClient/x86_64/stable', 'fp:flathub:app/org.freedesktop.GlxInfo/x86_64/1.6', 'fp:flathub:app/org.fritzing.Fritzing/x86_64/stable', 'fp:flathub:app/org.gnome.Builder/x86_64/stable']
+flatpak-remotes=['flathub::https://dl.flathub.org/repo/::False']
